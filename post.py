@@ -4,8 +4,8 @@ from telebot import types
 import qrcode
 
 
-bot = telebot.TeleBot("7227507399:AAGrk8wjVxzu7FpqrydYDZcdt-1utcdCCXw")
-CHANNEL_NAME = '@Aroratg'
+bot = telebot.TeleBot("you'r_token")
+CHANNEL_NAME = "you'r_chanel_name"
 
 # Функция для генерации случайного артикула
 def generate_sku():
